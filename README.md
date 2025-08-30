@@ -1,9 +1,3 @@
-# Chatbot LangGraph
-
-A conversational AI chatbot built with LangGraph and Streamlit, powered by Google's Gemini 2.5 Flash model.
-
-![alt text](image.png)
-
 ## Features
 
 - **LangGraph Integration**: Uses LangGraph for state management and conversation flow
